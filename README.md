@@ -2,7 +2,7 @@
 
 ## 👥 Integrants
 - Adam Valien (@adamvafu06)
-- Sergi Couto (@usuariGitHub)
+- Sergi Couto (@sergiicoutoo)
 - Adam Ahmadi (@usuariGitHub)
 
 ## 🎯 Descripció del projecte
