@@ -32,7 +32,7 @@ L’objectiu és dissenyar i defensar la infraestructura d’una **empresa fict�
 
 ## 📋 Organització del treball
 El seguiment del projecte es fa amb **GitHub Projects**:  
-➡️ [Enllaç al Project Board](URL_DEL_PROJECT)
+➡️ [Enllaç al Project Board](https://github.com/users/adamvafu06/projects/1)
 
 Columnes: `Backlog` → `En Progrés` → `Fet`  
 Cada tasca ha de tenir un responsable assignat i una data prevista.
