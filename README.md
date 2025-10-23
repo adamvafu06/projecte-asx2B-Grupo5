@@ -3,7 +3,7 @@
 ## 👥 Integrants
 - Adam Valien (@adamvafu06)
 - Sergi Couto (@sergiicoutoo)
-- Adam Ahmadi (@usuariGitHub)
+- Adam Ahmadi (@lkadaam)
 
 ## 🎯 Descripció del projecte
 Aquest projecte forma part del mòdul de ciberseguretat ASX2.  
